@@ -1,3 +1,9 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qsxkdprdem3m8xi2?svg=true)](https://ci.appveyor.com/project/OksanaBannova/popovers)
+
+[GitHub Pages](https://github.com/OksanaBannova/Popovers)
+
+
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
